@@ -1,6 +1,6 @@
 # PartyPackProBot — party game prompts for Telegram
 
-**Try it:** [@PartyPackProBot](https://t.me/PartyPackProBot) · [tg.zovo.one/bots/party/](https://tg.zovo.one/bots/party/)
+**Try it:** [@PartyPackProBot](https://t.me/PartyPackProBot?start=github) · [tg.zovo.one/bots/party/](https://tg.zovo.one/bots/party/)
 
 ## What it does
 

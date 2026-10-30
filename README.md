@@ -2,9 +2,15 @@
 
 **Try it:** [@PartyPackProBot](https://t.me/PartyPackProBot?start=github) · [tg.zovo.one/bots/party/](https://tg.zovo.one/bots/party/)
 
+## Pro costs 75 Stars
+
+Pro is now 75 Stars, paid once. It used to be 150. The one payment unlocks 320 more prompts and the 18+ Spicy pack. Send `/pro` to see the offer.
+
+[Start with @PartyPackProBot](https://t.me/PartyPackProBot?start=github)
+
 ## What it does
 
-PartyPackProBot serves Truth, Dare, Would You Rather, and Never Have I Ever prompts straight into a Telegram group or DM. `/truth`, `/dare`, `/wyr`, `/nhie` pull one prompt from that category, `/random` picks a category at random, and every roll comes with **Another ▶️** (reroll the same category) and **Next player 👉** (pick a random recently-active member of the chat and roll again). Rotation never repeats a prompt in a category until every prompt in it has been shown once. Free tier: 40 prompts per category (160 total). Pro (one-time 150 ⭐) unlocks 320 more prompts across the four categories and an 18+ Spicy pack, toggled per chat with `/spicy`. A small Mini App (`/app`) offers the same roll-a-category flow outside the chat.
+PartyPackProBot serves Truth, Dare, Would You Rather, and Never Have I Ever prompts straight into a Telegram group or DM. `/truth`, `/dare`, `/wyr`, `/nhie` pull one prompt from that category, `/random` picks a category at random, and every roll comes with **Another ▶️** (reroll the same category) and **Next player 👉** (pick a random recently-active member of the chat and roll again). Rotation never repeats a prompt in a category until every prompt in it has been shown once. Free tier: 40 prompts per category (160 total). Pro (one-time 75 ⭐) unlocks 320 more prompts across the four categories and an 18+ Spicy pack, toggled per chat with `/spicy`. A small Mini App (`/app`) offers the same roll-a-category flow outside the chat.
 
 ## Use it without adding the bot
 
